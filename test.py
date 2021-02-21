@@ -1,4 +1,5 @@
-# RustedPizza 2021
+# Use WASD and the arrow keys to move the 2 points
+# It is possible for the points to have negative coordinates or leave the screen
 
 import pygame as pg
 
